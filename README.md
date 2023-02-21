@@ -1,1 +1,5 @@
 # Data_Cleaning
+
+Data wrangling, data munging, data janitorial work, and data preparation are all other names for data cleaning. Preparing data for ingestion into a data processing stream is mentioned in all of these. Since incomplete or missing datasets can be problematic, the initial objective should be to identify data deficiencies before they result in false results.  It may be implied rather than explicitly mentioned at times. 
+
+In most cases, data cleaning is required before an ETL (Extract, Transform, and Load) job can be completed. Normalizing data sets, which typically entails scaling the data to values between 0 and 1, maybe one of the additional requirements. This makes it possible to conduct certain kinds of numerical analysis. Although the final result is sometimes referred to as tidy data, it is essential to keep in mind that data cleaning is not always a one-time activity. Any particular dataset's subsequent use may well bring to light specifics that require additional cleaning.
